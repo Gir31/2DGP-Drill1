@@ -34,5 +34,4 @@ turtle.onkey(turtle_left, 'a')
 turtle.onkey(turtle_reset,'Escape')
 turtle.listen()
 turtle.stamp()
-
 turtle.exitonclick()
